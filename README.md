@@ -5,15 +5,11 @@
 <br>
 <br><br>
 
-[![Stars](https://img.shields.io/github/stars/elevenyts/ArtistMusic?style=for-the-badge&logo=starship&logoColor=white&color=A960FF&labelColor=0D1117)](https://github.com/elevenyts/ArtistMusic)
-[![Forks](https://img.shields.io/github/forks/elevenyts/ArtistMusic?style=for-the-badge&logo=git&logoColor=white&color=7C3AED&labelColor=0D1117)](https://github.com/elevenyts/ArtistMusic)
-[![Issues](https://img.shields.io/github/issues/elevenyts/ArtistMusic?style=for-the-badge&logo=github&logoColor=white&color=FF6B6B&labelColor=0D1117)](https://github.com/elevenyts/ArtistMusic/issues)
-[![License](https://img.shields.io/badge/License-MIT-A960FF?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0D1117)](LICENSE)
 
 <br>
 
-[![Telegram Channel](https://img.shields.io/badge/📢_Channel-Artistbots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/Artistbots)
-[![Support Group](https://img.shields.io/badge/💬_Support-ArtistMusic-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/Elevenytschats)
+[![Telegram Channel](https://t.me/anime_worldxc)
+[![Support Group](https://img.shields.io/badge/💬_Support-ArtistMusic-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/anime_worldxc)
 
 </div>
 
@@ -23,7 +19,7 @@
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                   ✦  ARTISTMUSIC MUSIC BOT  ✦
+                   ✦  ANIME MUSIC BOT  ✦
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
@@ -45,7 +41,7 @@
 
 ## 〔 ✦ 〕 Overview
 
-> **ArtistMusic** is a next-generation Telegram Voice Chat Music Bot engineered for performance, stability, and scale.
+> **AnimeMusic** is a next-generation Telegram Voice Chat Music Bot engineered for performance, stability, and scale.
 > Built on **Pyrogram** · **PyTgCalls** · **MongoDB** — delivering crystal-clear audio with powerful admin tooling and multi-language support across global communities.
 
 <br>
@@ -362,14 +358,14 @@ docker run -d --env-file .env --name artistmusic artistmusic
 
 <br>
 
-[![ARTIST](https://files.catbox.moe/kcnahh.png)](https://t.me/Artistbots)
+[![ARTIST](https://files.catbox.moe/kcnahh.png)](https://t.me/anime_worldxc)
 
 <br>
 
 | Platform | Link |
 |:---:|:---:|
-| 📢 Updates Channel | [t.me/Artistbots](https://t.me/Artistbots) |
-| 💬 Support Group | [t.me/artistmusicmusic](https://t.me/elevenytschats) |
+| 📢 Updates Channel | [t.me/anime_worldxc](https://t.me/anime_worldxc) |
+| 💬 Support Group | [t.me/anime_worldxgp](https://t.me/anime_worldxgp) |
 
 </div>
 
@@ -388,7 +384,7 @@ Built on the shoulders of giants:
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
          Made with ❤️  by  Artist  ·  Powered by ArtistBots
-                   © 2026 ArtistMusic · MIT License
+                   © 2026 AnimeMusic · MIT License
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
